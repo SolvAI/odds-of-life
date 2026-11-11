@@ -1,0 +1,254 @@
+[
+  {
+    "key": "baby_male_regular",
+    "stage": "baby",
+    "sex": "male",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME baby boy (about 1 year old), sitting upright: same face, short wisps of black hair, medium tan skin (#C68642), the skin color is identical in all three.\nHe wears the SAME outfit in all three: a light blue onesie.\nOnly his body and condition change, left to right:\n1. Very healthy: chubby and plump, rosy cheeks, bright eyes, big happy smile.\n2. Normal: ordinary baby proportions, calm neutral expression.\n3. Sick: thin and frail, pale, teary eyes, runny nose, droopy and miserable.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "baby_male_rags",
+    "stage": "baby",
+    "sex": "male",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a dirty torn grey cloth diaper and a stained grey undershirt. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "baby_male_wealthy",
+    "stage": "baby",
+    "sex": "male",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: an elegant white and navy designer baby outfit with a tiny navy bow tie. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "baby_female_regular",
+    "stage": "baby",
+    "sex": "female",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME baby girl (about 1 year old), sitting upright: same face, short wisps of black hair with a tiny tuft, medium tan skin (#C68642), the skin color is identical in all three.\nShe wears the SAME outfit in all three: a pink onesie.\nOnly her body and condition change, left to right:\n1. Very healthy: chubby and plump, rosy cheeks, bright eyes, big happy smile.\n2. Normal: ordinary baby proportions, calm neutral expression.\n3. Sick: thin and frail, pale, teary eyes, runny nose, droopy and miserable.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "baby_female_rags",
+    "stage": "baby",
+    "sex": "female",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a dirty torn grey cloth diaper and a stained grey undershirt. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "baby_female_wealthy",
+    "stage": "baby",
+    "sex": "female",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: an elegant white lace baby dress with a navy ribbon. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "child_male_regular",
+    "stage": "child",
+    "sex": "male",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME boy (about 8 years old): same face, short black hair, medium tan skin (#C68642), the skin color is identical in all three.\nHe wears the SAME outfit in all three: a green t-shirt, blue denim shorts, white sneakers.\nOnly his body and condition change, left to right:\n1. Very healthy: sturdy and energetic, rosy cheeks, big grin, confident stance.\n2. Normal: average build, relaxed, neutral expression.\n3. Sick: skinny and frail, sunken eyes with dark circles, slouched, sad.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "child_male_rags",
+    "stage": "child",
+    "sex": "male",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a torn, dirty, faded grey t-shirt and ragged grey shorts, barefoot. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "child_male_wealthy",
+    "stage": "child",
+    "sex": "male",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a private school uniform: navy blazer, white shirt, grey trousers, polished black shoes. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "child_female_regular",
+    "stage": "child",
+    "sex": "female",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME girl (about 8 years old): same face, black hair in two pigtails, medium tan skin (#C68642), the skin color is identical in all three.\nShe wears the SAME outfit in all three: a green t-shirt, blue denim skirt, white sneakers.\nOnly her body and condition change, left to right:\n1. Very healthy: sturdy and energetic, rosy cheeks, big grin, confident stance.\n2. Normal: average build, relaxed, neutral expression.\n3. Sick: skinny and frail, sunken eyes with dark circles, slouched, sad.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "child_female_rags",
+    "stage": "child",
+    "sex": "female",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a torn, dirty, faded grey dress, barefoot. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "child_female_wealthy",
+    "stage": "child",
+    "sex": "female",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a private school uniform: navy blazer, white shirt, pleated navy skirt, polished black shoes. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "teen_male_regular",
+    "stage": "teen",
+    "sex": "male",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME teenage boy (about 15 years old): same face, messy short black hair, medium tan skin (#C68642), the skin color is identical in all three.\nHe wears the SAME outfit in all three: a purple hoodie, blue jeans, white sneakers.\nOnly his body and condition change, left to right:\n1. Very healthy: athletic and fit, upright posture, bright confident smile.\n2. Normal: average build, slightly bored expression.\n3. Sick: gaunt and frail, pale, dark circles under the eyes, hunched, exhausted.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "teen_male_rags",
+    "stage": "teen",
+    "sex": "male",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a worn-out torn faded grey hoodie and ragged dark grey pants, broken black sandals. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "teen_male_wealthy",
+    "stage": "teen",
+    "sex": "male",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: designer streetwear: black designer jacket, slim black jeans, crisp white luxury sneakers, silver chain. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "teen_female_regular",
+    "stage": "teen",
+    "sex": "female",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME teenage girl (about 15 years old): same face, long black hair in a ponytail, medium tan skin (#C68642), the skin color is identical in all three.\nShe wears the SAME outfit in all three: a purple hoodie, blue jeans, white sneakers.\nOnly her body and condition change, left to right:\n1. Very healthy: fit, toned and curvy, upright posture, bright confident smile.\n2. Normal: average build, slightly bored expression.\n3. Sick: gaunt and frail, pale, dark circles under the eyes, hunched, exhausted.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "teen_female_rags",
+    "stage": "teen",
+    "sex": "female",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a worn-out torn faded grey hoodie and ragged dark grey pants, broken black sandals. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "teen_female_wealthy",
+    "stage": "teen",
+    "sex": "female",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: designer streetwear: black designer jacket, white top, slim black jeans, crisp white luxury sneakers, silver earrings. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "young_male_regular",
+    "stage": "young",
+    "sex": "male",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME young adult man (about 25 years old): same face, short black hair, medium tan skin (#C68642), the skin color is identical in all three.\nHe wears the SAME outfit in all three: a plain red t-shirt, blue jeans, white sneakers.\nOnly his body and condition change, left to right:\n1. Very healthy: athletic and muscular, broad shoulders, defined arms, upright confident posture, bright eyes, slight smile.\n2. Normal: average build, relaxed posture, neutral expression.\n3. Sick: gaunt and frail, visibly thinner limbs, sunken cheeks, dark circles under the eyes, hunched shoulders, weary expression, clothes hanging loose.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "young_male_rags",
+    "stage": "young",
+    "sex": "male",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a torn, dirty, faded grey shirt and ragged dark grey pants, barefoot. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "young_male_wealthy",
+    "stage": "young",
+    "sex": "male",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a tailored navy suit, white shirt, silver watch, black leather shoes. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "young_female_regular",
+    "stage": "young",
+    "sex": "female",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME young adult woman (about 25 years old): same face, long straight black hair, medium tan skin (#C68642), the skin color is identical in all three.\nShe wears the SAME outfit in all three: a plain red top, blue jeans, white sneakers.\nOnly her body and condition change, left to right:\n1. Very healthy: toned, curvy and thick: strong thighs and hips, fit glowing look, upright confident posture, bright eyes, slight smile.\n2. Normal: average build, relaxed posture, neutral expression.\n3. Sick: gaunt and frail, visibly thinner limbs, sunken cheeks, dark circles under the eyes, hunched shoulders, weary expression, clothes hanging loose.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "young_female_rags",
+    "stage": "young",
+    "sex": "female",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a torn, dirty, faded grey dress, barefoot. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "young_female_wealthy",
+    "stage": "young",
+    "sex": "female",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: an elegant navy dress, silver jewelry, black heels. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "adult_male_regular",
+    "stage": "adult",
+    "sex": "male",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME middle-aged man (about 45 years old): same face, short black hair with a few grey streaks, medium tan skin (#C68642), the skin color is identical in all three.\nHe wears the SAME outfit in all three: a light blue button-up shirt, dark grey trousers, black shoes.\nOnly his body and condition change, left to right:\n1. Very healthy: athletic and muscular, broad shoulders, defined arms, upright confident posture, bright eyes, slight smile.\n2. Normal: average build, relaxed posture, neutral expression.\n3. Sick: gaunt and frail, visibly thinner limbs, sunken cheeks, dark circles under the eyes, hunched shoulders, weary expression, clothes hanging loose.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "adult_male_rags",
+    "stage": "adult",
+    "sex": "male",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: patched, dirty grey work clothes and worn black rubber sandals. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "adult_male_wealthy",
+    "stage": "adult",
+    "sex": "male",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a luxury charcoal three-piece suit, burgundy tie, silver watch, black leather shoes. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "adult_female_regular",
+    "stage": "adult",
+    "sex": "female",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME middle-aged woman (about 45 years old): same face, shoulder-length black hair with a few grey streaks, medium tan skin (#C68642), the skin color is identical in all three.\nShe wears the SAME outfit in all three: a light blue blouse, dark grey trousers, black shoes.\nOnly her body and condition change, left to right:\n1. Very healthy: toned, curvy and thick: strong thighs and hips, fit glowing look, upright confident posture, bright eyes, slight smile.\n2. Normal: average build, relaxed posture, neutral expression.\n3. Sick: gaunt and frail, visibly thinner limbs, sunken cheeks, dark circles under the eyes, hunched shoulders, weary expression, clothes hanging loose.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "adult_female_rags",
+    "stage": "adult",
+    "sex": "female",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a patched, dirty grey housedress and worn black rubber sandals. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "adult_female_wealthy",
+    "stage": "adult",
+    "sex": "female",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: an elegant burgundy designer dress with a black blazer, pearl necklace, black heels. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "senior_male_regular",
+    "stage": "senior",
+    "sex": "male",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME elderly man (about 75 years old): same face, thin white hair, medium tan skin (#C68642), the skin color is identical in all three.\nHe wears the SAME outfit in all three: a green cardigan over a white shirt, grey trousers, black shoes.\nOnly his body and condition change, left to right:\n1. Very healthy: fit and energetic for their age, upright posture, lively warm smile.\n2. Normal: slightly stooped, calm expression.\n3. Sick: very frail and bony, pale, deeply hunched, leaning on a black walking cane, tired eyes.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "senior_male_rags",
+    "stage": "senior",
+    "sex": "male",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a threadbare stained grey cardigan, old grey trousers, worn black slippers. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "senior_male_wealthy",
+    "stage": "senior",
+    "sex": "male",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: an elegant navy velvet blazer, white shirt, burgundy silk scarf, black leather shoes. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "senior_female_regular",
+    "stage": "senior",
+    "sex": "female",
+    "wealth": "regular",
+    "prompt": "Pixel art video game character sprites. Three full-body figures side by side on a plain flat light grey background (#D0D0D0), evenly spaced, each centered in its own third of the image, same scale, feet on the same baseline, facing the viewer.\nAll three are the SAME elderly woman (about 75 years old): same face, white hair in a neat bun, medium tan skin (#C68642), the skin color is identical in all three.\nShe wears the SAME outfit in all three: a green cardigan over a white blouse, grey skirt, black shoes.\nOnly her body and condition change, left to right:\n1. Very healthy: fit and energetic for their age, upright posture, lively warm smile.\n2. Normal: slightly stooped, calm expression.\n3. Sick: very frail and bony, pale, deeply hunched, leaning on a black walking cane, tired eyes.\nClothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver.\nStyle: detailed 16-bit pixel art, crisp hard-edged square pixels, limited palette, dark outline, no anti-aliasing, no ground shadow. No text, no labels, no numbers, no frames or borders."
+  },
+  {
+    "key": "senior_female_rags",
+    "stage": "senior",
+    "sex": "female",
+    "wealth": "rags",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: a threadbare stained grey cardigan over an old grey skirt, worn black slippers. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  },
+  {
+    "key": "senior_female_wealthy",
+    "stage": "senior",
+    "sex": "female",
+    "wealth": "wealthy",
+    "prompt": "Edit the reference image. Keep the three figures exactly as they are: same face, hair, medium tan skin, body shapes, poses, expressions, positions, scale and pixel art style (very healthy, normal, sick from left to right). Only change the outfit of all three to: an elegant navy dress, pearl necklace, burgundy silk scarf, black shoes. On the sick figure the clothes hang loose. Keep the plain flat light grey background. Clothing colors only from grey, white, black, blue, navy, green, red, purple, pink, burgundy and silver. No text."
+  }
+]

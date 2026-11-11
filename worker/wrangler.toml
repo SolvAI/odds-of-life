@@ -1,0 +1,27 @@
+# Odds of Life narrator: holds the DeepSeek key and rate-limits the public game.
+# Deploy: npx wrangler deploy, then: npx wrangler secret put DEEPSEEK_API_KEY
+name = "odds-of-life-narrator"
+main = "src/index.ts"
+compatibility_date = "2025-09-01"
+
+[vars]
+# Exact origins, or "https://*.domain" for any subdomain. itch.io serves HTML games from *.itch.zone.
+ALLOWED_ORIGINS = "https://solvai.github.io,https://*.itch.zone"
+# Calls per UTC day. A full life is about 60 calls.
+DAILY_LIMIT = "3000"
+IP_DAILY_LIMIT = "600"
+
+# Short bursts per IP, checked before anything else.
+[[ratelimits]]
+name = "BURST"
+namespace_id = "1001"
+simple = { limit = 30, period = 60 }
+
+# Daily counters (global and per hashed IP) in one SQLite-backed Durable Object.
+[[durable_objects.bindings]]
+name = "QUOTA"
+class_name = "Quota"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Quota"]
