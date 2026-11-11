@@ -12,6 +12,8 @@
 <p align="center">
   <a href="https://solvai.github.io/odds-of-life/"><b>▶ Play now in your browser</b></a>
   &nbsp;·&nbsp;
+  <a href="https://solvai.itch.io/odds-of-life">itch.io</a>
+  &nbsp;·&nbsp;
   <a href="#where-the-odds-come-from">Where the odds come from</a>
   &nbsp;·&nbsp;
   <a href="#run-it-locally">Run it locally</a>
